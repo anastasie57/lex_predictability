@@ -1,0 +1,95 @@
+<div style="text-align: left;">
+<input type="hidden" name="destination" value="agreement.csv">
+
+<p>
+Согласие на добровольное участие в исследовании
+</p>
+<p>
+Нажимая кнопку "Дальше", я подтверждаю своё добровольное участие в исследовании «Угадывание слов», проводимом Центром языка и мозга НИУ ВШЭ. Я также подтверждаю, что мои родители или законные представители согласны на мое участие в этом исследовании.
+</p>
+<p>
+Я даю согласие на то, что данные, полученные от меня в ходе исследования, могут быть опубликованы и использованы в научных целях при условии, что моё имя и персональные данные останутся в тайне.
+</p>
+<p>
+Я знаю, в чём состоит процедура исследования и что я могу в любое время прекратить участие в исследовании.
+</p>
+
+<p style="margin-bottom: 2em;">
+Мой возраст 
+<input id="idYear" type="number" name="year" value="" style="width: 20em; float: right;">
+</p>
+
+<p style="margin-bottom: 2em;">
+Мой пол 
+<select id="idSex" name="sex" style="width: 20em; float: right;">
+		<option value="none">Выберите</option>
+		<option value="male">Мужской</option>
+		<option value="female">Женский</option>
+	</select></p>
+
+<p style="margin-bottom: 2em;">
+Класс, в котором я учусь
+<input id="idGrade" type="number" name="grade" value="" style="width: 20em; float: right;">
+</p>
+
+<p style="margin-bottom: 2em;">
+Мой родной язык (языки, если ты с детства говоришь на нескольких языках)
+<input id="idLang" type="text" name="lang" value="" style="width: 20em; float: right;">
+</p>
+
+<p style="margin-bottom: 2em;">
+Каждую неделю на чтение "для себя" (не по заданию, не по учебе) я трачу примерно
+<select id="idTime" name="time_in_a_week" style="width: 20em; float: right;">
+		<option value="none">Выберите</option>
+		<option value="min10">10 минут</option>
+		<option value="min30">30 минут</option>
+		<option value="min60">Час</option>
+		<option value="min90">Полтора часа</option>
+		<option value="min100500">Больше полутора часов</option>
+	</select> 
+</p>
+
+<p style="margin-bottom: 2em;">
+С какого возраста ты умеешь читать?
+<input id="idAgeRead" type="number" name="age_read" value="" style="width: 20em; float: right;">
+</p>
+
+<p style="margin-bottom: 2em;">
+Твой идентификационный номер (если знаешь)
+<input id="idIdNumber" type="text" name="idnumber" value="" style="width: 20em; float: right;">
+</p>
+
+<script>
+function isEmpty() {
+	//Experigen.recordResponse(this);
+	var msg= "";
+	if (document.getElementById("idYear").value == "") {
+            msg +=  'Заполни возраст! \n';
+    }
+	if (document.getElementById("idGrade").value == "") {
+            msg +=  'Заполни класс! \n';
+    }
+	if (document.getElementById("idLang").value == "") {
+            msg +=  'Заполни язык! \n';
+    }
+	if (document.getElementById("idSex").value == "none") {
+            msg +=  'Заполни пол! \n';
+    }
+	if (document.getElementById("idTime").value == "none") {
+            msg +=  'Заполни время чтения! \n';
+    }
+	if (document.getElementById("idAgeRead").value == "") {
+            msg +=  'Заполни возраст начала чтения! \n';
+    }
+
+    if(msg) {
+        alert(msg);
+        return false;
+    }
+    else
+        Experigen.recordResponse(this);
+}
+</script>
+<input type="submit" value="   Дальше   " onClick="isEmpty()">
+
+</div>

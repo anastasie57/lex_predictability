@@ -1,0 +1,41 @@
+
+
+
+
+<div style="text-align: center; line-height:130%;">
+	<p>
+	<%= item %>
+
+</div>
+
+
+<div class="trialpartWrapper" style="clear:both; text-align: center;">  
+	Введите слово и нажмите enter для продолжения
+	<p>
+<script>
+	document.getElementById('idAnswer').addEventListener('keydown', function(event) {
+        if (event.keyCode == 13) {
+			var msg= "";
+			if (document.getElementById("idAnswer").value == "") {
+					msg +=  'Заполните поле!';
+			} 
+			if (msg) {
+				event.cancelBubble = true;
+				event.returnValue = false;
+				event.preventDefault();
+				alert(msg);
+				return false;
+			} else {
+				return true;
+			}
+        }
+    });
+	function isEmpty(event) {
+		
+	}
+</script>
+	<input id="idAnswer" type="text" name="answer" value="" SIZE="30" MAXLENGTH="100" style="width: 30em;" />
+</div>
+
+
+<div style="clear: both; height: 1px;">&nbsp;</div>
