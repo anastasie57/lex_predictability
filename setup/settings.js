@@ -1,9 +1,9 @@
 var Experigen =  {
 	settings: {
 
-		experimentName: "lopuhinpredicttest", // use only A-Z, a-z, 0-9
+		experimentName: "faiermaximovapredicttest", // use only A-Z, a-z, 0-9
 		
-		databaseServer: "https://sdb.phonologist.org/experigen1/",
+		databaseServer: "https://sdb.phonologist.org/experigen3/",
 
 		online: true, // make sure you know what you're doing before changing this
 		
