@@ -1,7 +1,7 @@
 var Experigen =  {
 	settings: {
 
-		experimentName: "faiermaximovapredicttest", // use only A-Z, a-z, 0-9
+		experimentName: "default", // use only A-Z, a-z, 0-9
 		
 		databaseServer: "https://sdb.phonologist.org/experigen1/",
 
