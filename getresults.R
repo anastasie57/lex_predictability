@@ -4,9 +4,9 @@
 # and substituting slashes, etc. with periods.
 # for example, if your experiment is at  http://www.awesome-university.edu/~hotshot/questionnaire/,
 # enter the following string:
-experigen.sourceURL = "www.awesomeuniversity.edu.hotshot.questionnaire"
+experigen.sourceURL = "anastasie57.github.io.lex_predictability"
 # the following information comes from your settings.js file:
-experigen.experimentName = "default"
+experigen.experimentName = "faierpredicttest"
 experigen.database = "https://sdb.phonologist.org/experigen1/"
 
 # first, send some info to the server with the current
