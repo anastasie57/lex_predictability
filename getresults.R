@@ -7,7 +7,7 @@
 experigen.sourceURL = "anastasie57.github.io.lex_predictability"
 # the following information comes from your settings.js file:
 experigen.experimentName = "faiermaximovapredicttest"
-experigen.database = "https://sdb.phonologist.org/experigen57/"
+experigen.database = "https://sdb.phonologist.org/experigen1/"
 
 # first, send some info to the server with the current
 # sourceURL and experimentName by submitting at least one screen
