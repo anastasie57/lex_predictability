@@ -3,7 +3,7 @@ var Experigen =  {
 
 		experimentName: "faiermaximovapredicttest", // use only A-Z, a-z, 0-9
 		
-		databaseServer: "https://sdb.phonologist.org/experigen57/",
+		databaseServer: "https://sdb.phonologist.org/experigen1/",
 
 		online: true, // make sure you know what you're doing before changing this
 		
