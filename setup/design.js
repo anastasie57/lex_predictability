@@ -19,7 +19,7 @@ Experigen.initialize = function () {
 	
     items = items.slice(0);
     shuffleArray(items);
-    items = items.slice(0, 10);
+    #items = items.slice(0, 10);
 	
     for(var i = 0, count = 0; i < items.length; i++, count++) {
         //items[i].text = items[i].id + ". " + items[i].text
