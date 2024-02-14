@@ -15,6 +15,7 @@ experigen.database = "https://sdb.phonologist.org/experigen1/"
 # otherwise, the server will return an error message
 
 email = read.csv(paste(experigen.sourceUrl, "&file=email.csv", sep=""), sep="\t")
+
 email$time = as.POSIXct(strptime(as.character(email$time), "%a %b %d %H:%M:%S %Y"))
 write.csv(email, "email.csv")
 
