@@ -4,7 +4,7 @@
 # and substituting slashes, etc. with periods.
 # for example, if your experiment is at  http://www.awesome-university.edu/~hotshot/questionnaire/,
 # enter the following string:
-experigen.sourceURL = "anastasie57.github.io.lex_predictability"
+experigen.sourceURL = "anastasie57.github.io.lex.predictability"
 # the following information comes from your settings.js file:
 experigen.experimentName = "faierpredicttest"
 experigen.database = "https://sdb.phonologist.org/experigen1/"
@@ -13,11 +13,6 @@ experigen.database = "https://sdb.phonologist.org/experigen1/"
 # sourceURL and experimentName by submitting at least one screen
 # to the server.
 # otherwise, the server will return an error message
-
-email = read.csv(paste(experigen.sourceUrl, "&file=email.csv", sep=""), sep="\t")
-
-email$time = as.POSIXct(strptime(as.character(email$time), "%a %b %d %H:%M:%S %Y"))
-write.csv(email, "email.csv")
 
 # check for usage of the experiment (number of page views per participant)
 experigen.users  =  paste(experigen.database, "users.cgi?experimentName=", experigen.experimentName, "&sourceurl=", experigen.sourceURL, sep="")
