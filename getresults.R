@@ -14,6 +14,10 @@ experigen.database = "https://sdb.phonologist.org/experigen1/"
 # to the server.
 # otherwise, the server will return an error message
 
+email = read.csv(paste(experigen.sourceUrl, "&file=email.csv", sep=""), sep="\t")
+email$time = as.POSIXct(strptime(as.character(email$time), "%a %b %d %H:%M:%S %Y"))
+write.csv(email, "email.csv")
+
 # check for usage of the experiment (number of page views per participant)
 experigen.users  =  paste(experigen.database, "users.cgi?experimentName=", experigen.experimentName, "&sourceurl=", experigen.sourceURL, sep="")
 print('reading users')
