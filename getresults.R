@@ -27,9 +27,9 @@ xp  = read.csv(experigen.url, sep="\t")
 xp$time = as.POSIXct(strptime(as.character(xp$time), "%a %b %d %H:%M:%S %Y"))
 write.csv(xp, "xp.csv")
 
-email = read.csv(paste(experigen.url, "&file=email.csv", sep=""), sep="\t")
-email$time = as.POSIXct(strptime(as.character(email$time), "%a %b %d %H:%M:%S %Y"))
-write.csv(email, "email.csv")
+# email = read.csv(paste(experigen.url, "&file=email.csv", sep=""), sep="\t")
+# email$time = as.POSIXct(strptime(as.character(email$time), "%a %b %d %H:%M:%S %Y"))
+# write.csv(email, "email.csv")
 
 print('reading meta')
 meta = read.csv(paste(experigen.url, "&file=agreement.csv", sep=""), sep="\t")
