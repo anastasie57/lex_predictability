@@ -1,0 +1,502 @@
+"","IP","age_read","destination","experimentName","grade","idnumber","lang","sex","time","time_in_a_week","userCode","userFileName","year"
+"1","90.154.70.229",NA,"agreement.csv","lopuhinpredicttest",NA,"","русский","male",NA,"min60","KTO1",1,34
+"2","90.154.70.229",NA,"agreement.csv","lopuhinpredicttest",NA,"","fsdf","male",NA,"min30","KUW2",2,34
+"3","90.154.70.229",NA,"agreement.csv","lopuhinpredicttest",2,"","русский","male",NA,"min30","QJA5",5,23
+"4","95.84.239.162",5,"agreement.csv","lopuhinpredicttest",10,"","русский","female",NA,"min60","XKN10",10,16
+"5","95.84.239.162",5,"agreement.csv","lopuhinpredicttest",10,"","русский","female",NA,"min60","COA11",11,16
+"6","109.252.114.234",4,"agreement.csv","lopuhinpredicttest",10,"1","русский","female",NA,"min30","QOM14",14,16
+"7","109.252.51.218",5,"agreement.csv","lopuhinpredicttest",10,"2","Русский","male",NA,"min100500","WUV15",15,16
+"8","213.87.133.242",3,"agreement.csv","lopuhinpredicttest",10,"4","Русский","male",NA,"min10","HES16",16,16
+"9","62.122.208.148",6,"agreement.csv","lopuhinpredicttest",10,"6","русский","female",NA,"min30","DPM17",17,16
+"10","109.252.85.85",5,"agreement.csv","lopuhinpredicttest",10,"5","Русский","male",NA,"min10","AFO18",18,16
+"11","109.252.85.85",5,"agreement.csv","lopuhinpredicttest",10,"5","Русский","male",NA,"min10","ATZ19",19,16
+"12","37.146.75.226",5,"agreement.csv","lopuhinpredicttest",10,"3","Русский","female",NA,"min100500","ESZ20",20,16
+"13","31.173.87.124",5,"agreement.csv","lopuhinpredicttest",10,"9","Русский","female",NA,"min100500","XNX21",21,16
+"14","31.173.87.124",5,"agreement.csv","lopuhinpredicttest",10,"9","русский","female",NA,"min100500","RKN23",23,16
+"15","88.135.80.7",5,"agreement.csv","lopuhinpredicttest",10,"12","Русский","male",NA,"min30","WIH24",24,16
+"16","109.252.201.210",5,"agreement.csv","lopuhinpredicttest",10,"15","русский","male",NA,"min100500","PNE25",25,16
+"17","91.193.177.115",5,"agreement.csv","lopuhinpredicttest",10,"24","Русский","male",NA,"min100500","AUS26",26,16
+"18","91.193.177.115",5,"agreement.csv","lopuhinpredicttest",10,"24","Русский","male",NA,"min100500","TZG27",27,16
+"19","195.91.247.65",7,"agreement.csv","lopuhinpredicttest",10,"28","русский","female",NA,"min10","PTI29",29,16
+"20","46.242.13.120",4,"agreement.csv","lopuhinpredicttest",10,"18","Русский","male",NA,"min10","SAT30",30,15
+"21","178.176.75.149",5,"agreement.csv","lopuhinpredicttest",10,"9","русский","female",NA,"min100500","NQE31",31,16
+"22","176.195.48.53",6,"agreement.csv","lopuhinpredicttest",10,"30","РУССКИЙ","female",NA,"min90","XUN32",32,16
+"23","109.252.65.239",4,"agreement.csv","lopuhinpredicttest",10,"29 ","Русский","female",NA,"min10","JGJ33",33,16
+"24","178.176.79.224",5,"agreement.csv","lopuhinpredicttest",10,"8","Русский","male",NA,"min100500","WBF34",34,16
+"25","213.87.158.102",4,"agreement.csv","lopuhinpredicttest",10,"19","Русский","female",NA,"min60","HNW35",35,15
+"26","109.252.65.239",4,"agreement.csv","lopuhinpredicttest",10,"29 ","Русский","female",NA,"min10","FBH36",36,16
+"27","109.252.114.186",4.5,"agreement.csv","lopuhinpredicttest",10,"33","Русский язык","female",NA,"min90","PQY37",37,15
+"28","109.252.202.88",4,"agreement.csv","lopuhinpredicttest",10,"10","Русский","male",NA,"min30","SFC38",38,16
+"29","109.252.138.22",5,"agreement.csv","lopuhinpredicttest",10,"14","Русский","female",NA,"min100500","BFN39",39,16
+"30","213.87.158.102",4,"agreement.csv","lopuhinpredicttest",10,"19","Русский","female",NA,"min60","CJX40",40,15
+"31","95.165.26.204",4,"agreement.csv","lopuhinpredicttest",10,"17","русский","female",NA,"min90","ROQ41",41,15
+"32","95.165.26.204",4,"agreement.csv","lopuhinpredicttest",10,"17","русский","female",NA,"min90","FSL42",42,15
+"33","95.165.26.204",4,"agreement.csv","lopuhinpredicttest",10,"17","русский","female",NA,"min90","ZAL43",43,15
+"34","178.140.105.35",5,"agreement.csv","lopuhinpredicttest",10,"13","Русский","female",NA,"min60","RKA44",44,15
+"35","46.188.123.66",5,"agreement.csv","lopuhinpredicttest",10,"16","Русский","female",NA,"min100500","ZYY45",45,16
+"36","212.34.48.236",3,"agreement.csv","lopuhinpredicttest",10,"31","русский","female",NA,"min90","FDE46",46,15
+"37","213.87.131.112",5,"agreement.csv","lopuhinpredicttest",10,"36","Русский","female",NA,"min60","SBQ48",48,15
+"38","213.87.153.89",5,"agreement.csv","lopuhinpredicttest",10,"1","русский","male",NA,"min30","VLO49",49,16
+"39","46.50.170.59",5,"agreement.csv","lopuhinpredicttest",10,"39","русский","female",NA,"min90","JVV51",51,16
+"40","217.66.158.50",3,"agreement.csv","lopuhinpredicttest",10,"38","Русский","female",NA,"min100500","SBH51",51,15
+"41","217.66.158.50",3,"agreement.csv","lopuhinpredicttest",10,"38","Русский","female",NA,"min100500","VQU52",52,15
+"42","176.59.33.37",3,"agreement.csv","lopuhinpredicttest",10,"40","Русский","female",NA,"min100500","VVU53",53,16
+"43","217.66.158.50",3,"agreement.csv","lopuhinpredicttest",10,"38","Русский","female",NA,"min100500","BXS54",54,15
+"44","178.140.220.52",4,"agreement.csv","lopuhinpredicttest",10,"37","русский","female",NA,"min90","MWE55",55,16
+"45","109.252.14.137",5,"agreement.csv","lopuhinpredicttest",10,"21","Русский","male",NA,"min90","QMY56",56,16
+"46","78.81.158.131",4,"agreement.csv","lopuhinpredicttest",10,"43","русский","female",NA,"min100500","NHN57",57,16
+"47","212.35.190.214",3,"agreement.csv","lopuhinpredicttest",10,"40","Русский","female",NA,"min100500","API58",58,16
+"48","37.195.166.167",6,"agreement.csv","lopuhinpredicttest",10,"45","русский","female",NA,"min100500","IKX59",59,15
+"49","128.74.63.39",5,"agreement.csv","lopuhinpredicttest",10,"44","Русский","male",NA,"min30","KDM60",60,15
+"50","5.143.131.140",4,"agreement.csv","lopuhinpredicttest",10,"46","Русский","male",NA,"min100500","HHG61",61,16
+"51","5.143.131.140",4,"agreement.csv","lopuhinpredicttest",10,"46","Русский","male",NA,"min100500","RDB62",62,16
+"52","5.16.124.224",5,"agreement.csv","lopuhinpredicttest",10,"41","Русский","female",NA,"min60","CHP63",63,16
+"53","85.140.18.126",6,"agreement.csv","lopuhinpredicttest",10,"47","русский ","female",NA,"min100500","DYY64",64,16
+"54","109.252.201.52",6,"agreement.csv","lopuhinpredicttest",4,"201","Русский ","male",NA,"min90","YJT65",65,21
+"55","109.252.201.52",6,"agreement.csv","lopuhinpredicttest",11,"201","Русский ","male",NA,"min30","TEL68",68,21
+"56","37.23.222.30",4,"agreement.csv","lopuhinpredicttest",6,"130","Русский","female",NA,"min30","TVV69",69,12
+"57","37.23.222.30",4,"agreement.csv","lopuhinpredicttest",6,"130","Русский","female",NA,"min30","ARS70",70,12
+"58","95.25.217.66",4,"agreement.csv","lopuhinpredicttest",1,"302","русский","female",NA,"min100500","VBY71",71,21
+"59","5.228.121.77",4,"agreement.csv","lopuhinpredicttest",15,"303","русский","female",NA,"min10","MVO72",72,20
+"60","195.9.193.194",4,"agreement.csv","lopuhinpredicttest",15,"304","русский‚ пушту","male",NA,"min60","TCY73",73,20
+"61","95.84.239.162",5,"agreement.csv","lopuhinpredicttest",15,"305","русский","male",NA,"min30","KIZ74",74,20
+"62","92.242.59.6",-62,"agreement.csv","lopuhinpredicttest",175,"тест","тест","female",NA,"min10","OLI75",75,164
+"63","176.192.162.116",6,"agreement.csv","lopuhinpredicttest",6,"115","Русский","male",NA,"min100500","YQJ77",77,11
+"64","176.192.162.116",6,"agreement.csv","lopuhinpredicttest",6,"115","Русский ","male",NA,"min100500","YXK78",78,11
+"65","176.192.162.116",6,"agreement.csv","lopuhinpredicttest",6,"115","Русский ","male",NA,"min90","ZFP79",79,11
+"66","46.242.11.165",6,"agreement.csv","lopuhinpredicttest",7,"140","Русский","female",NA,"min100500","TFI80",80,13
+"67","109.252.123.238",5,"agreement.csv","lopuhinpredicttest",20,"308","русский","male",NA,"min30","KRD81",81,26
+"68","109.252.192.139",6,"agreement.csv","lopuhinpredicttest",14,"306","русский","male",NA,"min30","KSU82",82,20
+"69","109.252.114.234",5,"agreement.csv","lopuhinpredicttest",15,"312","русский","female",NA,"min100500","LHX83",83,45
+"70","109.252.114.234",6,"agreement.csv","lopuhinpredicttest",15,"313","русский","male",NA,"min90","BQU84",84,49
+"71","46.242.13.120",-5,"agreement.csv","lopuhinpredicttest",-11,"310","русский","female",NA,"min90","RTJ85",85,51
+"72","89.178.211.232",6,"agreement.csv","lopuhinpredicttest",7,"141","русский","female",NA,"min90","ICO86",86,13
+"73","95.84.239.162",5,"agreement.csv","lopuhinpredicttest",14,"121","русский","female",NA,"min10","YKJ87",87,100
+"74","109.252.64.132",2.5,"agreement.csv","lopuhinpredicttest",7,"141","Русский","female",NA,"min60","VDE89",89,13
+"75","83.169.216.168",7,"agreement.csv","lopuhinpredicttest",0,"317","русский","male",NA,"min60","XTW90",90,45
+"76","178.219.154.129",5,"agreement.csv","lopuhinpredicttest",12,"314","Русский","male",NA,"min90","YPE91",91,18
+"77","109.252.85.72",6,"agreement.csv","lopuhinpredicttest",319,"319","русский","male",NA,"min10","CNU92",92,26
+"78","81.91.184.133",6,"agreement.csv","lopuhinpredicttest",6,"Незнаю","Руский","female",NA,"min90","IQZ93",93,11
+"79","81.91.184.133",6,"agreement.csv","lopuhinpredicttest",6,"","Русский ","female",NA,"min90","SZL94",94,11
+"80","85.249.40.175",6,"agreement.csv","lopuhinpredicttest",37,"320","русский","female",NA,"min100500","ROT95",95,44
+"81","176.59.40.41",4.5,"agreement.csv","lopuhinpredicttest",7,"400","Русский","female",NA,"min100500","FII96",96,13
+"82","176.59.40.41",4,"agreement.csv","lopuhinpredicttest",7,"400","Русский","female",NA,"min100500","YDN98",98,13
+"83","85.249.40.175",3,"agreement.csv","lopuhinpredicttest",12,"404","Русский","male",NA,"min10","CHS99",99,18
+"84","46.242.8.155",6,"agreement.csv","lopuhinpredicttest",0,"321","Русский","female",NA,"min30","ACZ100",100,44
+"85","46.39.51.236",4,"agreement.csv","lopuhinpredicttest",7,"","Татарский","female",NA,"min100500","PGW101",101,12
+"86","46.39.51.236",4,"agreement.csv","lopuhinpredicttest",7,"","Русский","female",NA,"min100500","CEV102",102,12
+"87","81.91.186.61",6,"agreement.csv","lopuhinpredicttest",6,"","Русском","female",NA,"min90","WMW103",103,11
+"88","95.84.239.162",9,"agreement.csv","lopuhinpredicttest",10,"0","русский","female",NA,"min90","ZAK104",104,0
+"89","46.34.206.241",3,"agreement.csv","lopuhinpredicttest",7,"150","русский","female",NA,"min30","KUB106",106,13
+"90","46.34.206.241",4,"agreement.csv","lopuhinpredicttest",7,"150","русский","female",NA,"min30","KOT107",107,13
+"91","81.91.184.234",7,"agreement.csv","lopuhinpredicttest",9,"404","Русский","female",NA,"min30","FEN108",108,14
+"92","81.91.184.234",7,"agreement.csv","lopuhinpredicttest",9,"404","Русский","female",NA,"min30","ZEL109",109,14
+"93","188.170.77.4",4,"agreement.csv","lopuhinpredicttest",6,"406","Русский ","female",NA,"min100500","UQF110",110,12
+"94","213.251.228.204",4,"agreement.csv","lopuhinpredicttest",10,"не знаю","Русский","female",NA,"min90","CDU113",113,16
+"95","95.220.52.180",5,"agreement.csv","lopuhinpredicttest",0,"331","русский","male",NA,"min90","ASV114",114,49
+"96","95.220.52.180",7,"agreement.csv","lopuhinpredicttest",332,"332","русский","female",NA,"min10","CWV115",115,21
+"97","89.42.60.202",5,"agreement.csv","lopuhinpredicttest",6,"433","Русский","female",NA,"min60","HID117",117,11
+"98","89.42.204.196",-5,"agreement.csv","lopuhinpredicttest",-6,"","русский ","male",NA,"min60","DDS118",118,12
+"99","178.89.60.116",3,"agreement.csv","lopuhinpredicttest",11,"435","Русский ","female",NA,"min90","SZA119",119,17
+"100","46.242.8.229",3,"agreement.csv","lopuhinpredicttest",6,"","русский","female",NA,"min100500","PYZ120",120,12
+"101","46.242.8.229",3,"agreement.csv","lopuhinpredicttest",6,"","русский","female",NA,"min100500","YPX121",121,12
+"102","109.252.83.232",5,"agreement.csv","lopuhinpredicttest",6,"196","Русский","male",NA,"min60","JJP122",122,12
+"103","79.139.180.106",4,"agreement.csv","lopuhinpredicttest",6,"198","русский","female",NA,"min100500","QQU123",123,12
+"104","109.252.83.232",5,"agreement.csv","lopuhinpredicttest",6,"196","Русский","male",NA,"min60","WTL124",124,12
+"105","178.129.45.48",-4,"agreement.csv","lopuhinpredicttest",-6,"436","русский","male",NA,"min100500","NCB125",125,12
+"106","178.129.45.48",3,"agreement.csv","lopuhinpredicttest",6,"436","русский","female",NA,"min60","WCZ126",126,12
+"107","212.45.80.104",5,"agreement.csv","lopuhinpredicttest",7,"Это че","Кыргызкий родной‚ говорю на русском","female",NA,"min10","LII127",127,13
+"108","89.42.62.225",5,"agreement.csv","lopuhinpredicttest",6,"","Руский‚англ","female",NA,"min60","GOC128",128,12
+"109","89.42.62.225",5,"agreement.csv","lopuhinpredicttest",6,"","Русский‚англиский","female",NA,"min60","LDK129",129,12
+"110","89.42.62.225",5,"agreement.csv","lopuhinpredicttest",6,"0","Русский‚англ","female",NA,"min60","XLN130",130,12
+"111","176.59.110.224",6,"agreement.csv","lopuhinpredicttest",4,"Не знаю","Русский ну немного английский","female",NA,"min60","WET132",132,11
+"112","93.175.11.47",5,"agreement.csv","lopuhinpredicttest",15,"440","Русский","female",NA,"min60","VWL133",133,21
+"113","188.32.251.186",3,"agreement.csv","lopuhinpredicttest",0,"443","Русский","male",NA,"min100500","XNC134",134,22
+"114","195.189.49.113",7,"agreement.csv","lopuhinpredicttest",5,"87052252327 ","Руссктй язык","female",NA,"min30","XAQ135",135,11
+"115","109.252.20.218",4,"agreement.csv","lopuhinpredicttest",10,"60","Русский","female",NA,"min100500","GJZ136",136,15
+"116","89.42.206.137",5,"agreement.csv","lopuhinpredicttest",7,"","Русский ","female",NA,"min10","DLT137",137,13
+"117","185.210.141.8",9,"agreement.csv","lopuhinpredicttest",6,"Незнаю ","Русский ","female",NA,"min10","JBF139",139,12
+"118","185.210.141.8",9,"agreement.csv","lopuhinpredicttest",6,"Незнаю ","Русский ","female",NA,"min10","IXZ140",140,12
+"119","89.113.139.112",6,"agreement.csv","lopuhinpredicttest",6,"453","Русский","female",NA,"min30","LLX144",144,12
+"120","89.113.139.112",6,"agreement.csv","lopuhinpredicttest",6,"454","Русский","female",NA,"min60","FNK145",145,12
+"121","93.81.222.7",6,"agreement.csv","lopuhinpredicttest",7,"453","Русский","female",NA,"min30","ATW146",146,13
+"122","93.81.222.7",6,"agreement.csv","lopuhinpredicttest",7,"455","Русский язык","female",NA,"min30","SHZ147",147,13
+"123","81.20.107.194",5,"agreement.csv","lopuhinpredicttest",11,"457","Русский","female",NA,"min30","HBK149",149,17
+"124","37.73.28.95",5,"agreement.csv","lopuhinpredicttest",10,"457","Укаїнська","female",NA,"min10","MVP151",151,151515
+"125","37.204.243.4",5,"agreement.csv","lopuhinpredicttest",0,"460","русский","female",NA,"min30","IZA153",153,21
+"126","109.252.73.205",6,"agreement.csv","lopuhinpredicttest",8,"","Родной язык русский","female",NA,"min90","TGF154",154,14
+"127","109.252.35.44",4,"agreement.csv","lopuhinpredicttest",6,"не знаю","русский ","female",NA,"min60","DPK155",155,13
+"128","109.252.35.44",4,"agreement.csv","lopuhinpredicttest",6,"не знаю","русский ","female",NA,"min60","OIC156",156,13
+"129","81.5.121.191",3,"agreement.csv","lopuhinpredicttest",0,"461","русский","male",NA,"min60","GIA157",157,21
+"130","2.95.124.232",4,"agreement.csv","lopuhinpredicttest",7,"466","Русский‚английский","female",NA,"min60","GTG158",158,12
+"131","2.95.124.232",5,"agreement.csv","lopuhinpredicttest",7,"466","Русский‚английский","female",NA,"min60","LXM159",159,12
+"132","79.134.68.76",6,"agreement.csv","lopuhinpredicttest",8,"","русский","female",NA,"min10","NNR160",160,14
+"133","128.68.208.220",4,"agreement.csv","lopuhinpredicttest",6,"401","русский","male",NA,"min100500","IHW161",161,11
+"134","185.8.126.59",5,"agreement.csv","lopuhinpredicttest",7,"","Русский","female",NA,"min60","WLS162",162,13
+"135","176.59.54.221",5,"agreement.csv","lopuhinpredicttest",10,"475","Русский","male",NA,"min10","PME163",163,17
+"136","89.178.226.68",5,"agreement.csv","lopuhinpredicttest",10,"475","Русский","male",NA,"min10","VAH164",164,17
+"137","31.162.243.17",0,"agreement.csv","lopuhinpredicttest",972,"479","Живе беларусь","male",NA,"min100500","LRT165",165,972
+"138","83.149.21.81",5,"agreement.csv","lopuhinpredicttest",7,"480","Русский ","female",NA,"min60","PJK168",168,13
+"139","85.26.235.55",481,"agreement.csv","lopuhinpredicttest",13,"","13","female",NA,"min30","GOG169",169,13
+"140","176.59.144.51",6,"agreement.csv","lopuhinpredicttest",6,"482","Русский ","female",NA,"min30","ABV171",171,12
+"141","128.72.163.233",6,"agreement.csv","lopuhinpredicttest",7,"483","русский","female",NA,"min10","CPP173",173,13
+"142","93.124.33.51",5,"agreement.csv","lopuhinpredicttest",6,"","Руский язык","female",NA,"min100500","NYG174",174,12
+"143","93.124.33.51",6,"agreement.csv","lopuhinpredicttest",6,"","Русский язык","female",NA,"min100500","FXR175",175,15
+"144","217.118.90.246",6,"agreement.csv","lopuhinpredicttest",6,"","Русский","female",NA,"min90","VYJ178",178,12
+"145","217.118.90.130",7,"agreement.csv","lopuhinpredicttest",6,"487","Русский ","male",NA,"min30","MXP181",181,12
+"146","93.124.105.47",6,"agreement.csv","lopuhinpredicttest",8,"Хз","Русский","male",NA,"min30","YDG182",182,12
+"147","37.113.38.126",6,"agreement.csv","lopuhinpredicttest",7,"","Русский","female",NA,"min100500","POR184",184,12
+"148","93.124.105.47",7,"agreement.csv","lopuhinpredicttest",7,"Хз","Русский","female",NA,"min30","FEZ185",185,12
+"149","128.69.195.90",6,"agreement.csv","lopuhinpredicttest",7,"","Русский ","female",NA,"min10","LZG187",187,13
+"150","217.118.90.189",6,"agreement.csv","lopuhinpredicttest",122226,"","Татарский","female",NA,"min10","LJW188",188,12111212
+"151","217.118.90.130",6,"agreement.csv","lopuhinpredicttest",6,"490","Русский","male",NA,"min30","WNF189",189,12
+"152","217.118.90.130",6,"agreement.csv","lopuhinpredicttest",6,"490","Русский","male",NA,"min30","ZFX190",190,12
+"153","217.118.90.130",6,"agreement.csv","lopuhinpredicttest",6,"490","Русский","male",NA,"min30","MJC191",191,12
+"154","2.92.197.180",5,"agreement.csv","lopuhinpredicttest",7,"14784","Русский","female",NA,"min90","HXW193",193,13
+"155","2.92.197.180",4,"agreement.csv","lopuhinpredicttest",7,"14793","Русский","female",NA,"min90","ARY194",194,13
+"156","62.133.162.42",4,"agreement.csv","lopuhinpredicttest",0,"D2004","русский","female",NA,"min100500","CDR198",198,21
+"157","176.59.103.84",6,"agreement.csv","lopuhinpredicttest",7,"429","Русский","female",NA,"min30","HXB199",199,13
+"158","91.214.143.3",6,"agreement.csv","lopuhinpredicttest",5,"90230","русский","male",NA,"min30","EBZ200",200,11
+"159","91.214.143.3",6,"agreement.csv","lopuhinpredicttest",5,"90230","русский","male",NA,"min30","ZON201",201,11
+"160","46.242.8.189",7,"agreement.csv","lopuhinpredicttest",6,"13510","русский","female",NA,"min10","ERA202",202,11
+"161","212.34.48.119",5,"agreement.csv","lopuhinpredicttest",4,"10293","Русский","female",NA,"min100500","CPR203",203,10
+"162","95.84.246.86",6,"agreement.csv","lopuhinpredicttest",10,"","Русский","male",NA,"min90","UWP204",204,16
+"163","109.252.49.123",5,"agreement.csv","lopuhinpredicttest",5,"12345","русский","female",NA,"min30","HXZ205",205,11
+"164","188.123.231.17",3,"agreement.csv","lopuhinpredicttest",11,"1515А","русский","female",NA,"min10","PGP207",207,17
+"165","213.87.163.153",7,"agreement.csv","lopuhinpredicttest",5,"24MKS","Русский","male",NA,"min10","EQK208",208,12
+"166","213.87.163.153",7,"agreement.csv","lopuhinpredicttest",5,"24MKS","Русский","male",NA,"min10","QKY210",210,12
+"167","109.252.201.237",3,"agreement.csv","lopuhinpredicttest",7,"","Русский","male",NA,"min60","GIL211",211,13
+"168","213.87.225.157",4,"agreement.csv","lopuhinpredicttest",5,"25BVE","русский","male",NA,"min10","ZMR214",214,11
+"169","46.48.204.55",6,"agreement.csv","lopuhinpredicttest",5,"25RES","Русский ","female",NA,"min60","HAF218",218,11
+"170","91.228.178.74",5,"agreement.csv","lopuhinpredicttest",9,"ччч","русский","male",NA,"min10","HIQ219",219,16
+"171","212.59.96.194",5,"agreement.csv","lopuhinpredicttest",6,"25BYY","русский","male",NA,"min60","HGZ221",221,12
+"172","91.193.176.212",6,"agreement.csv","lopuhinpredicttest",8,"25ANS","Русский","male",NA,"min100500","AKY222",222,14
+"173","185.180.57.177",5,"agreement.csv","lopuhinpredicttest",6,"25TMY","Русский","male",NA,"min10","RAU225",225,12
+"174","128.74.253.61",4,"agreement.csv","lopuhinpredicttest",9,"","Русский ","female",NA,"min60","LHF226",226,15
+"175","128.74.253.61",4,"agreement.csv","lopuhinpredicttest",9,"","Русский ","female",NA,"min60","QWI227",227,15
+"176","188.123.230.132",5,"agreement.csv","lopuhinpredicttest",4,"25SMI","русский","male",NA,"min60","GQO228",228,9
+"177","109.252.49.123",5,"agreement.csv","lopuhinpredicttest",5,"12345","русский","female",NA,"min60","AFK229",229,11
+"178","109.252.126.40",5,"agreement.csv","lopuhinpredicttest",8,"25OOT","Русский","female",NA,"min100500","XMM230",230,14
+"179","109.252.15.14",6,"agreement.csv","lopuhinpredicttest",8,"25ELA","русский","female",NA,"min30","WRB233",233,14
+"180","109.252.2.64",1,"agreement.csv","lopuhinpredicttest",93,"","Чучмекский","male",NA,"min100500","CMM235",235,1e+13
+"181","213.87.148.12",6,"agreement.csv","lopuhinpredicttest",8,"25ELA","Русский","female",NA,"min30","TSA236",236,14
+"182","188.123.231.41",5,"agreement.csv","lopuhinpredicttest",7,"25VVN","Русский","male",NA,"min90","MVM241",241,13
+"183","109.252.15.14",5,"agreement.csv","lopuhinpredicttest",8,"","Русский","female",NA,"min30","YZY242",242,14
+"184","109.252.15.14",5,"agreement.csv","lopuhinpredicttest",8,"25EEA","Русский","female",NA,"min30","MYH243",243,14
+"185","195.91.228.33",4,"agreement.csv","lopuhinpredicttest",6,"25IFG","русский","male",NA,"min100500","NNV244",244,11
+"186","95.167.212.10",6,"agreement.csv","lopuhinpredicttest",9,"25ABV","русский","female",NA,"min90","MTR246",246,14
+"187","37.113.78.16",5,"agreement.csv","lopuhinpredicttest",8,"25IKD","русский","female",NA,"min10","NXL248",248,13
+"188","95.170.171.158",5,"agreement.csv","lopuhinpredicttest",6,"251120rks","Русский","female",NA,"min100500","UGE250",250,12
+"189","95.170.171.158",5,"agreement.csv","lopuhinpredicttest",6,"251120rks","Русский","female",NA,"min100500","TWA251",251,12
+"190","185.60.15.15",7,"agreement.csv","lopuhinpredicttest",5,"25DGD","русский","male",NA,"min100500","CQK252",252,11
+"191","79.135.244.153",5,"agreement.csv","lopuhinpredicttest",6,"25AAA","русский","female",NA,"min60","HVL253",253,12
+"192","213.87.163.153",7,"agreement.csv","lopuhinpredicttest",5,"25MKS","Русский","male",NA,"min10","IES254",254,12
+"193","79.135.244.153",5,"agreement.csv","lopuhinpredicttest",6,"25AAA","русский","female",NA,"min60","HBI255",255,12
+"194","95.84.239.162",5,"agreement.csv","lopuhinpredicttest",0,"500","русский","female",NA,"min60","VDA256",256,51
+"195","109.252.15.14",6,"agreement.csv","lopuhinpredicttest",8,"","Русский","male",NA,"min30","ENI258",258,14
+"196","95.27.156.196",5,"agreement.csv","lopuhinpredicttest",9,"141411","Русский ","male",NA,"min60","QZH262",262,15
+"197","95.27.156.196",5,"agreement.csv","lopuhinpredicttest",9,"26DND ","Русский ","male",NA,"min60","FGS263",263,15
+"198","195.191.146.52",4,"agreement.csv","lopuhinpredicttest",11,"","русский","female",NA,"min90","PCS264",264,4
+"199","2.92.197.194",6,"agreement.csv","lopuhinpredicttest",5,"26LTA","Русский язык","female",NA,"min100500","VWQ265",265,11
+"200","79.120.40.18",5,"agreement.csv","lopuhinpredicttest",5,"26DV","Русский","female",NA,"min30","BLL266",266,10
+"201","2.92.197.194",5,"agreement.csv","lopuhinpredicttest",4,"26LSA","Русский язык","male",NA,"min30","LQY267",267,10
+"202","212.119.233.61",6,"agreement.csv","lopuhinpredicttest",6,"","Русский","female",NA,"min10","ZOB268",268,12
+"203","212.119.233.61",6,"agreement.csv","lopuhinpredicttest",6,"","Русский","female",NA,"min10","KVU269",269,12
+"204","171.33.252.61",5,"agreement.csv","lopuhinpredicttest",6,"","русский","female",NA,"min100500","LJG270",270,12
+"205","171.33.252.61",5,"agreement.csv","lopuhinpredicttest",6,"","русский","female",NA,"min100500","IQJ271",271,12
+"206","80.77.163.166",5,"agreement.csv","lopuhinpredicttest",9,"26KUP","русский","female",NA,"min10","OBS272",272,15
+"207","128.72.211.177",5,"agreement.csv","lopuhinpredicttest",6,"","Русский","male",NA,"min90","KJL274",274,12
+"208","109.252.15.14",61,"agreement.csv","lopuhinpredicttest",8,"27ema","Русский","male",NA,"min30","XOC278",278,14
+"209","46.39.56.39",4,"agreement.csv","lopuhinpredicttest",4,"Dannap","русский","female",NA,"min60","LOR278",278,20
+"210","176.99.142.218",4,"agreement.csv","lopuhinpredicttest",0,"D9895","русский","female",NA,"min90","TUD279",279,25
+"211","46.39.56.39",4,"agreement.csv","lopuhinpredicttest",4,"","русский","female",NA,"min60","EQN279",279,20
+"212","37.147.250.168",5,"agreement.csv","lopuhinpredicttest",0,"D1476","русский","female",NA,"min30","KBT280",280,21
+"213","82.193.155.229",3,"agreement.csv","lopuhinpredicttest",9,"27ASD","Русский","female",NA,"min30","HMI282",282,14
+"214","109.252.202.223",3,"agreement.csv","lopuhinpredicttest",8,"27SEE","русский","female",NA,"min100500","LIZ285",285,14
+"215","83.149.21.168",4,"agreement.csv","lopuhinpredicttest",10,"28SDA","Русский","male",NA,"min10","VRF287",287,16
+"216","79.141.162.81",5,"agreement.csv","lopuhinpredicttest",15,"dfelltoearth","русский","female",NA,"min60","LLM288",288,20
+"217","91.228.178.74",4,"agreement.csv","lopuhinpredicttest",16,"D8069","Русский","female",NA,"min100500","YJX289",289,22
+"218","95.188.94.108",5,"agreement.csv","lopuhinpredicttest",9,"28KSA","Русский","male",NA,"min10","ULP291",291,15
+"219","198.16.70.53",3,"agreement.csv","lopuhinpredicttest",15,"D1135","русский","female",NA,"min100500","ZBW293",293,21
+"220","46.242.75.38",6,"agreement.csv","lopuhinpredicttest",5,"38RSZ","Русский ","female",NA,"min100500","NLL294",294,11
+"221","89.175.213.122",4,"agreement.csv","lopuhinpredicttest",9,"30KMM","Русский","female",NA,"min100500","YGQ296",296,14
+"222","46.188.123.156",4,"agreement.csv","lopuhinpredicttest",15,"D0110g","Русский","male",NA,"min60","XTW297",297,24
+"223","176.193.248.50",4,"agreement.csv","lopuhinpredicttest",18,"WQ171","русский","female",NA,"min100500","NLC298",298,24
+"224","95.27.144.134",3,"agreement.csv","lopuhinpredicttest",15,"D1632","русский","female",NA,"min100500","JMX299",299,22
+"225","188.32.170.211",4,"agreement.csv","lopuhinpredicttest",15,"57312","русский","female",NA,"min100500","QQN300",300,20
+"226","109.252.28.32",4,"agreement.csv","lopuhinpredicttest",15,"D5469","русский","female",NA,"min60","MFH301",301,20
+"227","83.149.45.55",4,"agreement.csv","lopuhinpredicttest",15,"0908","Русский","female",NA,"min30","KIU302",302,21
+"228","109.174.114.161",5,"agreement.csv","lopuhinpredicttest",0,"29089","русский","female",NA,"min10","DHN303",303,21
+"229","93.80.49.70",3,"agreement.csv","lopuhinpredicttest",15,"DFGHJ","русский","female",NA,"min30","NQF304",304,21
+"230","46.188.30.28",4,"agreement.csv","lopuhinpredicttest",15,"13131","Русский","female",NA,"min90","UYX305",305,21
+"231","46.39.53.136",3,"agreement.csv","lopuhinpredicttest",6,"108","Русский","male",NA,"min30","TKN306",306,12
+"232","62.133.162.232",4,"agreement.csv","lopuhinpredicttest",15,"D2041","русский","female",NA,"min60","UUR307",307,21
+"233","217.117.125.72",4,"agreement.csv","lopuhinpredicttest",6,"","ru","male",NA,"min100500","JXK308",308,12
+"234","95.84.239.162",1,"agreement.csv","lopuhinpredicttest",1,"TEST","TEST","male",NA,"min10","HQG309",309,1
+"235","90.154.71.136",4,"agreement.csv","lopuhinpredicttest",7,"VZS1612","Русский","male",NA,"min100500","RUW310",310,12
+"236","90.154.71.136",4,"agreement.csv","lopuhinpredicttest",7,"VZS1612","Русский","male",NA,"min100500","FHB311",311,12
+"237","31.173.85.162",4,"agreement.csv","lopuhinpredicttest",15,"D22854","Русский","female",NA,"min60","NNQ312",312,20
+"238","176.59.57.49",4,"agreement.csv","lopuhinpredicttest",9,"","Русский","male",NA,"min100500","VCI313",313,15
+"239","89.139.85.182",5,"agreement.csv","lopuhinpredicttest",5,"","русскй","female",NA,"min10","FQW314",314,10
+"240","145.255.160.168",5,"agreement.csv","lopuhinpredicttest",5,"8ARR","Русский","male",NA,"min90","KBF315",315,11
+"241","109.252.50.251",5,"agreement.csv","lopuhinpredicttest",7,"","Русский","female",NA,"min100500","AYY316",316,12
+"242","212.35.173.27",6,"agreement.csv","lopuhinpredicttest",9,"21APE","русский","female",NA,"min60","LWW317",317,15
+"243","212.35.173.27",7,"agreement.csv","lopuhinpredicttest",4,"21DPE","русский","female",NA,"min10","CGY318",318,10
+"244","109.252.50.251",5,"agreement.csv","lopuhinpredicttest",7,"","русский","female",NA,"min100500","NNN319",319,12
+"245","91.233.239.166",6,"agreement.csv","lopuhinpredicttest",4,"22DAV","русский","female",NA,"min60","SDQ321",321,10
+"246","46.242.10.117",6,"agreement.csv","lopuhinpredicttest",8,"1YSV","Русский","female",NA,"min30","IKP322",322,14
+"247","46.242.10.117",6,"agreement.csv","lopuhinpredicttest",8,"1YSV","Русский","female",NA,"min30","XNP323",323,14
+"248","213.87.136.46",6,"agreement.csv","lopuhinpredicttest",8,"1YSV","Русский","female",NA,"min30","ITE324",324,14
+"249","213.87.136.46",6,"agreement.csv","lopuhinpredicttest",8,"1YSV","Русский","female",NA,"min30","IUJ325",325,14
+"250","185.126.129.147",6,"agreement.csv","lopuhinpredicttest",9,"03khdira","Русский ","female",NA,"min60","SKI326",326,16
+"251","185.126.129.147",6,"agreement.csv","lopuhinpredicttest",9,"03khdira ","Русский ","female",NA,"min60","TNG327",327,16
+"252","37.204.169.214",4,"agreement.csv","lopuhinpredicttest",8,"03SAN","Русский","male",NA,"min60","PKY328",328,14
+"253","37.204.169.214",4,"agreement.csv","lopuhinpredicttest",8,"03SAN","Русский","male",NA,"min60","YUU330",330,14
+"254","95.153.130.2",1,"agreement.csv","lopuhinpredicttest",9,"04PAA","русский","female",NA,"min90","EFM331",331,15
+"255","37.204.169.214",4,"agreement.csv","lopuhinpredicttest",8,"04SAN","Русский","male",NA,"min60","EWE332",332,14
+"256","5.1.49.54",5,"agreement.csv","lopuhinpredicttest",8,"03DAA","русский","female",NA,"min60","DSQ333",333,14
+"257","46.188.122.139",5,"agreement.csv","lopuhinpredicttest",4,"04LYM","Русский","male",NA,"min60","ENY334",334,10
+"258","46.188.122.139",5,"agreement.csv","lopuhinpredicttest",4,"04LYM","Русский","male",NA,"min60","ZVR335",335,10
+"259","46.188.122.139",4,"agreement.csv","lopuhinpredicttest",4,"04LYM","Русский","male",NA,"min60","INC336",336,10
+"260","176.59.132.146",5,"agreement.csv","lopuhinpredicttest",8," 24EDD","Русский","female",NA,"min30","QXD337",337,13
+"261","213.87.126.134",6,"agreement.csv","lopuhinpredicttest",8,"05PDM","Русский","female",NA,"min30","TIB337",337,14
+"262","31.173.241.102",6,"agreement.csv","lopuhinpredicttest",8,"","Русский","female",NA,"min30","HLC338",338,14
+"263","176.59.129.228",4,"agreement.csv","lopuhinpredicttest",8,"5VRA","Русский ","male",NA,"min30","PGO338",338,14
+"264","176.59.129.228",4,"agreement.csv","lopuhinpredicttest",8,"5VRA","Русский ","male",NA,"min30","FRP338",338,14
+"265","213.87.127.117",5,"agreement.csv","lopuhinpredicttest",8,"05VYM","Русский","female",NA,"min10","OFQ339",339,14
+"266","31.173.243.98",6,"agreement.csv","lopuhinpredicttest",8,"5RDD","Русский язык ","female",NA,"min30","TRJ340",340,14
+"267","176.59.140.108",5,"agreement.csv","lopuhinpredicttest",8,"5khp","Русский","female",NA,"min30","UQV341",341,14
+"268","89.113.137.228",5,"agreement.csv","lopuhinpredicttest",8,"06ZHB","русский ну и немного киргизский ну как прост знаю но не говорю на нём тип понимаю ","female",NA,"min30","WQO342",342,14
+"269","89.113.136.136",5,"agreement.csv","lopuhinpredicttest",8,"05KKP","Русский ","male",NA,"min60","SHD343",343,14
+"270","89.113.140.169",7,"agreement.csv","lopuhinpredicttest",8,"5RGA","Русский","male",NA,"min10","EDT344",344,14
+"271","213.87.127.117",5,"agreement.csv","lopuhinpredicttest",8,"05WAD","Русский","female",NA,"min60","IME344",344,14
+"272","109.252.108.162",6,"agreement.csv","lopuhinpredicttest",9,"05LJV","Русский","female",NA,"min100500","FNY345",345,15
+"273","109.252.73.194",4,"agreement.csv","lopuhinpredicttest",5,"05AVS","Русский","male",NA,"min30","ODW346",346,11
+"274","217.19.215.39",6,"agreement.csv","lopuhinpredicttest",9,"6ESE","русский ","female",NA,"min100500","UHS348",348,15
+"275","217.19.215.39",5,"agreement.csv","lopuhinpredicttest",9,"6ESE","русский","female",NA,"min100500","BXZ351",351,15
+"276","185.126.130.63",6,"agreement.csv","lopuhinpredicttest",9,"","Русский","male",NA,"min30","HSP352",352,2005
+"277","185.126.130.63",6,"agreement.csv","lopuhinpredicttest",9,"07TMA","Русский","male",NA,"min30","YJF353",353,2005
+"278","2.60.71.24",5,"agreement.csv","lopuhinpredicttest",10,"","Русский","female",NA,"min60","OBP354",354,16
+"279","31.29.186.31",6,"agreement.csv","lopuhinpredicttest",5,"08SYA","Русский язык","female",NA,"min30","NNU357",357,11
+"280","5.1.49.45",5,"agreement.csv","lopuhinpredicttest",8,"16DAA","Русский","female",NA,"min60","XBO360",360,14
+"281","91.219.90.249",4,"agreement.csv","lopuhinpredicttest",4,"24ALE","русский","male",NA,"min10","GTL364",364,10
+"282","46.242.8.145",6,"agreement.csv","lopuhinpredicttest",7,"04VSZ","Русский","male",NA,"min60","RCP365",365,13
+"283","46.242.8.145",-31,"agreement.csv","lopuhinpredicttest",-20,"тест","тест","male",NA,"min10","NXU366",366,-24
+"284","46.242.61.6",6,"agreement.csv","lopuhinpredicttest",8,"18EMA","Русский","male",NA,"min90","BHV370",370,14
+"285","109.252.2.169",7,"agreement.csv","lopuhinpredicttest",5,"","Русский","male",NA,"min30","QLV371",371,12
+"286","109.252.2.169",7,"agreement.csv","lopuhinpredicttest",5,"","Русский","male",NA,"min30","RLI372",372,12
+"287","109.252.2.169",7,"agreement.csv","lopuhinpredicttest",5,"","Русский","male",NA,"min10","FNU374",374,12
+"288","95.165.99.158",5,"agreement.csv","lopuhinpredicttest",5,"18SKD","Русский","female",NA,"min30","JPN378",378,12
+"289","95.165.99.158",5,"agreement.csv","lopuhinpredicttest",5,"18SKD","Русский","female",NA,"min30","ADR379",379,12
+"290","46.242.8.145",-13,"agreement.csv","lopuhinpredicttest",-13,"тест","тест","male",NA,"min60","RWL380",380,-9
+"291","46.38.44.107",-15,"agreement.csv","lopuhinpredicttest",-11,"ю",".","female",NA,"min10","BHK381",381,-8
+"292","94.142.140.40",7,"agreement.csv","lopuhinpredicttest",8,"11","--","male",NA,"min30","RXT385",385,14
+"293","46.138.70.217",6,"agreement.csv","lopuhinpredicttest",1,"","русский","female",NA,"min90","MQV390",390,21
+"294","89.113.158.223",5,"agreement.csv","lopuhinpredicttest",0,"testK","русский","female",NA,"min10","CSV392",392,22
+"295","94.194.165.198",1,"agreement.csv","lopuhinpredicttest",1,"1","1","female",NA,"min10","VEJ393",393,34
+"296","109.252.111.94",5,"agreement.csv","lopuhinpredicttest",5,"","русский","female",NA,"min10","ZLP394",394,5
+"297","95.24.121.171",5,"agreement.csv","lopuhinpredicttest",5,"","Русский","male",NA,"min30","MHP395",395,5
+"298","46.138.110.238",5,"agreement.csv","lopuhinpredicttest",28,"test25","русский","female",NA,"min60","COS396",396,28
+"299","83.242.179.74",5,"agreement.csv","lopuhinpredicttest",0,"","русский","female",NA,"min10","MLG399",399,28
+"300","83.242.179.74",0,"agreement.csv","lopuhinpredicttest",0,"","0","male",NA,"min10","KWG400",400,1995
+"301","37.252.5.201",5,"agreement.csv","lopuhinpredicttest",12,"test1","русский","female",NA,"min30","OBG405",405,28
+"302","94.29.126.183",3,"agreement.csv","lopuhinpredicttest",9,"","русская","male",NA,"min100500","ECN406",406,15
+"303","51.158.233.116",5,"agreement.csv","lopuhinpredicttest",9,"","русский","female",NA,"min10","CJJ407",407,15
+"304","94.29.126.183",4,"agreement.csv","lopuhinpredicttest",9,"","русский","male",NA,"min60","WXD407",407,15
+"305","94.29.126.183",-3,"agreement.csv","lopuhinpredicttest",-9,"агент 47","русский","male",NA,"min90","PLQ407",407,26
+"306","213.87.137.103",3,"agreement.csv","lopuhinpredicttest",9,"","Русский ","male",NA,"min10","ZOF408",408,16
+"307","94.29.126.183",-1,"agreement.csv","lopuhinpredicttest",-9,"","Русский","male",NA,"min100500","LWR408",408,-15
+"308","94.29.126.183",5,"agreement.csv","lopuhinpredicttest",9,"","китайский‚ русский","female",NA,"min60","DFG409",409,15
+"309","89.113.154.147",5,"agreement.csv","lopuhinpredicttest",9,"","русский","male",NA,"min100500","ZUP410",410,16
+"310","94.29.126.183",3,"agreement.csv","lopuhinpredicttest",9,"","русская","male",NA,"min30","ZAY411",411,15
+"311","213.87.138.195",4,"agreement.csv","lopuhinpredicttest",9,"","русская речь","male",NA,"min10","EKT412",412,16
+"312","94.29.126.183",5,"agreement.csv","lopuhinpredicttest",9,"","Русский","male",NA,"min100500","LLP413",413,15
+"313","94.29.126.183",3,"agreement.csv","lopuhinpredicttest",9,"","Русский","female",NA,"min90","ULX414",414,15
+"314","94.29.126.183",3,"agreement.csv","lopuhinpredicttest",9,"","Русский","male",NA,"min100500","MSR414",414,15
+"315","89.113.156.16",4,"agreement.csv","lopuhinpredicttest",9,"-","Русский","female",NA,"min60","LPI414",414,15
+"316","94.29.126.183",3,"agreement.csv","lopuhinpredicttest",9,"","русский","female",NA,"min100500","EHH415",415,15
+"317","213.87.132.11",4,"agreement.csv","lopuhinpredicttest",9,"","Русский","female",NA,"min90","WNL415",415,15
+"318","94.29.126.183",3,"agreement.csv","lopuhinpredicttest",9,"","русский","male",NA,"min90","JHB416",416,15
+"319","94.29.126.183",3,"agreement.csv","lopuhinpredicttest",9,"","русский","female",NA,"min100500","UJZ417",417,15
+"320","89.113.152.113",3,"agreement.csv","lopuhinpredicttest",9,"","РУССКИЙ","male",NA,"min60","SGZ419",419,15
+"321","109.252.118.200",4,"agreement.csv","lopuhinpredicttest",12,"","русский","female",NA,"min90","OCY420",420,29
+"322","109.252.110.4",7,"agreement.csv","lopuhinpredicttest",2,"","русский","female",NA,"min30","EXZ423",423,9
+"323","46.138.61.209",5,"agreement.csv","lopuhinpredicttest",10,"453","рус","male",NA,"min60","AGG425",425,15
+"324","79.164.75.251",5,"agreement.csv","lopuhinpredicttest",7,"","Русский","female",NA,"min30","NBK426",426,13
+"325","94.29.124.177",3,"agreement.csv","lopuhinpredicttest",7,"","Русский ","male",NA,"min60","AWR427",427,12
+"326","94.29.124.177",3,"agreement.csv","lopuhinpredicttest",7,"","Русский ","male",NA,"min60","WUC428",428,12
+"327","89.113.158.77",4,"agreement.csv","lopuhinpredicttest",31,"","Русский ","female",NA,"min60","MYB430",430,47
+"328","62.182.75.24",5,"agreement.csv","lopuhinpredicttest",7,"","русский","male",NA,"min30","BAP431",431,14
+"329","90.154.70.18",4,"agreement.csv","lopuhinpredicttest",7,"","Русский","male",NA,"min60","QIY432",432,13
+"330","46.138.19.157",3,"agreement.csv","lopuhinpredicttest",1,"-","русский","male",NA,"min100500","HCC433",433,30
+"331","178.176.74.25",4,"agreement.csv","lopuhinpredicttest",8,"","Русский","female",NA,"min100500","HNS434",434,14
+"332","94.25.171.129",4,"agreement.csv","lopuhinpredicttest",8,"","Русский‚ английский ","female",NA,"min100500","NTS437",437,14
+"333","213.87.146.208",3,"agreement.csv","lopuhinpredicttest",8,"","Русский‚ Чувашский ","male",NA,"min90","JRS438",438,14
+"334","89.113.149.188",4,"agreement.csv","lopuhinpredicttest",11,"","Русский","female",NA,"min100500","YFF439",439,16
+"335","178.176.74.78",4,"agreement.csv","lopuhinpredicttest",11,"","Русский","female",NA,"min10","OZR440",440,17
+"336","213.87.136.101",5,"agreement.csv","lopuhinpredicttest",8,"","Русский","female",NA,"min10","VTT441",441,15
+"337","91.122.118.117",4,"agreement.csv","lopuhinpredicttest",11,"","Русский","female",NA,"min30","SFM442",442,17
+"338","176.59.43.67",4,"agreement.csv","lopuhinpredicttest",10,"","Русский ","female",NA,"min100500","EFK444",444,16
+"339","176.59.43.67",4,"agreement.csv","lopuhinpredicttest",10,"","Русский ","female",NA,"min100500","JKS445",445,16
+"340","178.176.76.83",6,"agreement.csv","lopuhinpredicttest",10,"","Русский","male",NA,"min10","WIM446",446,16
+"341","176.59.43.67",4,"agreement.csv","lopuhinpredicttest",10,"","Русский ","female",NA,"min100500","VAY447",447,16
+"342","178.176.79.156",3,"agreement.csv","lopuhinpredicttest",10,"","Русский","male",NA,"min100500","EGF448",448,16
+"343","213.87.134.103",4,"agreement.csv","lopuhinpredicttest",11,"","русский","female",NA,"min90","XIV449",449,17
+"344","195.154.28.200",4,"agreement.csv","lopuhinpredicttest",11,"","русский","female",NA,"min60","LOU450",450,18
+"345","95.24.69.140",5,"agreement.csv","lopuhinpredicttest",8,"","Русский","female",NA,"min10","IND451",451,14
+"346","95.24.36.252",5,"agreement.csv","lopuhinpredicttest",11,"","Русский","male",NA,"min30","TTB453",453,19
+"347","46.31.31.37",6,"agreement.csv","lopuhinpredicttest",8,"","Русский","male",NA,"min60","ZNV454",454,14
+"348","91.193.176.126",4,"agreement.csv","lopuhinpredicttest",2,"","русский","female",NA,"min30","WMK455",455,9
+"349","158.36.124.19",5,"agreement.csv","lopuhinpredicttest",0,"","русский","female",NA,"min10","RPK456",456,30
+"350","62.89.14.243",3,"agreement.csv","lopuhinpredicttest",0,"","русский","female",NA,"min100500","WWL457",457,28
+"351","176.6.205.213",4,"agreement.csv","lopuhinpredicttest",0,"","русский","female",NA,"min90","NYM458",458,25
+"352","178.176.77.85",3,"agreement.csv","lopuhinpredicttest",0,"","Русский","female",NA,"min100500","GFG459",459,24
+"353","109.252.178.238",7,"agreement.csv","lopuhinpredicttest",0,"","Русский ","female",NA,"min90","CPZ460",460,30
+"354","51.159.222.37",3,"agreement.csv","lopuhinpredicttest",0,"","русский","female",NA,"min30","DQS461",461,24
+"355","89.113.151.161",3,"agreement.csv","lopuhinpredicttest",16,"","русский","male",NA,"min100500","XJC461",461,24
+"356","37.204.71.17",3,"agreement.csv","lopuhinpredicttest",0,"","русский","male",NA,"min100500","TXM462",462,27
+"357","5.152.104.71",3,"agreement.csv","lopuhinpredicttest",0,"","русский","male",NA,"min10","FSP463",463,29
+"358","77.37.147.177",4,"agreement.csv","lopuhinpredicttest",0,"","русский","male",NA,"min100500","DIP463",463,26
+"359","85.140.25.136",5,"agreement.csv","lopuhinpredicttest",0,"","русский","male",NA,"min100500","VGQ464",464,25
+"360","178.199.214.37",6,"agreement.csv","lopuhinpredicttest",0,"","русский","male",NA,"min60","SSR467",467,31
+"361","188.44.47.240",6,"agreement.csv","lopuhinpredicttest",0,"","русский","female",NA,"min90","UZU468",468,54
+"362","141.136.91.163",5,"agreement.csv","lopuhinpredicttest",0,"","Русский","male",NA,"min90","JDU470",470,28
+"363","132.64.244.34",4,"agreement.csv","lopuhinpredicttest",0,"","Русский‚ Английский","female",NA,"min100500","UKN470",470,28
+"364","195.34.193.16",4,"agreement.csv","lopuhinpredicttest",0,"","Русский","male",NA,"min10","URO471",471,28
+"365","37.204.54.136",5,"agreement.csv","lopuhinpredicttest",0,"","Русский","male",NA,"min60","RSM473",473,24
+"366","46.138.7.54",5,"agreement.csv","lopuhinpredicttest",0,"","русский","female",NA,"min30","BXS474",474,19
+"367","95.161.205.206",3,"agreement.csv","lopuhinpredicttest",20,"","русский","female",NA,"min100500","FXE475",475,24
+"368","94.43.171.29",3,"agreement.csv","lopuhinpredicttest",0,"","русский","male",NA,"min100500","KFI476",476,28
+"369","213.87.134.187",5,"agreement.csv","lopuhinpredicttest",0,"","русский ","female",NA,"min100500","IRA477",477,21
+"370","31.135.236.192",4,"agreement.csv","lopuhinpredicttest",0,"","Русский","male",NA,"min10","XHN479",479,34
+"371","2.215.254.44",5,"agreement.csv","lopuhinpredicttest",45,"","русский","male",NA,"min100500","VRM480",480,51
+"372","95.24.20.69",4,"agreement.csv","lopuhinpredicttest",0,"","русский ","female",NA,"min10","TDD481",481,35
+"373","89.175.18.189",4,"agreement.csv","lopuhinpredicttest",0,"","русский","female",NA,"min60","FPO482",482,19
+"374","31.173.81.26",5,"agreement.csv","lopuhinpredicttest",0,"","Русский","male",NA,"min10","USS482",482,36
+"375","79.134.37.172",4,"agreement.csv","lopuhinpredicttest",0,"","Русский ","female",NA,"min10","XAE483",483,30
+"376","46.138.33.174",5,"agreement.csv","lopuhinpredicttest",0,"","Русский","female",NA,"min100500","OQP484",484,54
+"377","109.252.93.176",6,"agreement.csv","lopuhinpredicttest",0,"","Русский ","female",NA,"min100500","KAQ485",485,33
+"378","91.123.28.37",4,"agreement.csv","lopuhinpredicttest",0,"","русский","female",NA,"min100500","HID486",486,19
+"379","213.87.144.252",3,"agreement.csv","lopuhinpredicttest",0,"","Русский ","female",NA,"min60","JDN487",487,23
+"380","213.87.130.115",4,"agreement.csv","lopuhinpredicttest",0,"","Русский","female",NA,"min60","MBN488",488,18
+"381","109.252.58.90",4,"agreement.csv","lopuhinpredicttest",0,"","Русский","female",NA,"min100500","YFZ489",489,36
+"382","95.24.38.244",7,"agreement.csv","lopuhinpredicttest",0,"","Русский","male",NA,"min60","NUB490",490,24
+"383","91.197.57.194",5,"agreement.csv","lopuhinpredicttest",0,"","русский","female",NA,"min60","LBO491",491,38
+"384","45.137.112.6",6,"agreement.csv","lopuhinpredicttest",11,"","Русский","male",NA,"min100500","HMT492",492,17
+"385","195.8.50.197",5,"agreement.csv","lopuhinpredicttest",0,"","русский","female",NA,"min90","ALG492",492,25
+"386","141.35.40.47",5,"agreement.csv","lopuhinpredicttest",0,"","русский","male",NA,"min90","SQC493",493,29
+"387","80.250.2.182",7,"agreement.csv","lopuhinpredicttest",16,"","Русский ","female",NA,"min100500","LZZ494",494,23
+"388","94.230.166.35",5,"agreement.csv","lopuhinpredicttest",0,"","татарский","female",NA,"min100500","LXI495",495,35
+"389","46.39.56.174",5,"agreement.csv","lopuhinpredicttest",0,"","Русский","male",NA,"min100500","UZJ496",496,41
+"390","31.10.168.139",6,"agreement.csv","lopuhinpredicttest",0,"","русский","female",NA,"min30","KXQ498",498,29
+"391","89.113.150.223",4,"agreement.csv","lopuhinpredicttest",10,"","Русский","male",NA,"min100500","ZBG499",499,16
+"392","46.31.30.218",6,"agreement.csv","lopuhinpredicttest",10,"","русский","female",NA,"min60","VCC500",500,17
+"393","31.182.202.187",4,"agreement.csv","lopuhinpredicttest",24,"","русский","male",NA,"min10","VJK501",501,29
+"394","37.190.63.86",6,"agreement.csv","lopuhinpredicttest",0,"","Русский ","female",NA,"min30","YXG502",502,44
+"395","109.252.6.166",3,"agreement.csv","lopuhinpredicttest",0,"","русский","male",NA,"min100500","EUH503",503,22
+"396","80.246.130.189",5,"agreement.csv","lopuhinpredicttest",0,"","Русский ","female",NA,"min60","MPP504",504,19
+"397","178.221.150.36",3,"agreement.csv","lopuhinpredicttest",0,"","русский","male",NA,"min30","MEC505",505,25
+"398","94.141.255.244",5,"agreement.csv","lopuhinpredicttest",0,"","Русский","female",NA,"min60","GPG506",506,28
+"399","176.59.164.6",6,"agreement.csv","lopuhinpredicttest",11,"Что это? ","Русский","male",NA,"min90","WPL507",507,20
+"400","37.110.53.225",6,"agreement.csv","lopuhinpredicttest",0,"","Русский","female",NA,"min10","MMT508",508,41
+"401","37.110.53.225",6,"agreement.csv","lopuhinpredicttest",0,"","Русский","female",NA,"min10","POW509",509,41
+"402","46.31.30.218",6,"agreement.csv","lopuhinpredicttest",10,"","русский","female",NA,"min90","ART510",510,17
+"403","109.252.218.31",10,"agreement.csv","lopuhinpredicttest",0,"","Русский","male",NA,"min30","UHJ511",511,20
+"404","109.252.218.31",5,"agreement.csv","lopuhinpredicttest",4,"Не знаю","Русский","male",NA,"min10","KCD513",513,10
+"405","213.87.162.40",4,"agreement.csv","lopuhinpredicttest",0,"","Русский","female",NA,"min100500","OPN515",515,21
+"406","89.255.97.229",3,"agreement.csv","lopuhinpredicttest",0,"","Рус","female",NA,"min10","UDL516",516,44
+"407","139.82.255.72",3,"agreement.csv","lopuhinpredicttest",17,"","Русский","male",NA,"min100500","VGP518",518,22
+"408","109.252.218.31",6,"agreement.csv","lopuhinpredicttest",0,"","Русский","male",NA,"min30","QBK519",519,47
+"409","46.73.132.225",5,"agreement.csv","lopuhinpredicttest",0,"","русский","female",NA,"min100500","WCI520",520,23
+"410","213.87.89.26",6,"agreement.csv","lopuhinpredicttest",0,"","Русский","female",NA,"min100500","ZNH521",521,49
+"411","213.87.89.26",6,"agreement.csv","lopuhinpredicttest",0,"","Русский","female",NA,"min100500","EVH522",522,49
+"412","213.87.89.26",6,"agreement.csv","lopuhinpredicttest",0,"","Русский","female",NA,"min100500","VUI524",524,49
+"413","188.123.231.93",5,"agreement.csv","lopuhinpredicttest",11,"","Русский","female",NA,"min100500","OVY525",525,17
+"414","213.137.71.44",4,"agreement.csv","lopuhinpredicttest",11,"","Русский","female",NA,"min30","PCR526",526,51
+"415","188.44.47.240",7,"agreement.csv","lopuhinpredicttest",0,"","Русский","male",NA,"min100500","RNR528",528,30
+"416","188.32.204.146",4,"agreement.csv","lopuhinpredicttest",3,"","русский","female",NA,"min10","ITX533",533,8
+"417","95.165.167.102",6,"agreement.csv","lopuhinpredicttest",0,"","Русский","female",NA,"min100500","NZE535",535,29
+"418","213.87.136.233",5,"agreement.csv","lopuhinpredicttest",0,"","русский ","female",NA,"min100500","FPH536",536,5
+"419","89.113.157.92",6,"agreement.csv","lopuhinpredicttest",5,"","Русский","male",NA,"min90","KPE537",537,11
+"420","46.138.3.240",6,"agreement.csv","lopuhinpredicttest",8,"","русский","female",NA,"min100500","MGX540",540,14
+"421","188.32.204.146",3,"agreement.csv","lopuhinpredicttest",0,"","русский","female",NA,"min100500","PBJ541",541,35
+"422","46.138.3.240",6,"agreement.csv","lopuhinpredicttest",8,"","русский","female",NA,"min100500","XDP542",542,14
+"423","178.71.0.251",5,"agreement.csv","lopuhinpredicttest",21,"","Русский","male",NA,"min100500","NFM545",545,48
+"424","84.21.167.80",5,"agreement.csv","lopuhinpredicttest",25,"","Русский","female",NA,"min100500","EUD546",546,36
+"425","89.188.170.91",5,"agreement.csv","lopuhinpredicttest",0,"","Русский","female",NA,"min60","LDR547",547,26
+"426","84.21.167.80",5,"agreement.csv","lopuhinpredicttest",0,"","Русский","male",NA,"min60","MLS549",549,7
+"427","178.71.0.251",6,"agreement.csv","lopuhinpredicttest",4,"","Русский","female",NA,"min60","VGW550",550,10
+"428","185.201.31.42",5,"agreement.csv","lopuhinpredicttest",1,"","Русский","female",NA,"min10","DNM551",551,5
+"429","213.87.159.203",5,"agreement.csv","lopuhinpredicttest",2,"","Русский","female",NA,"min100500","HRR552",552,8
+"430","109.252.218.31",6,"agreement.csv","lopuhinpredicttest",0,"","Русский","female",NA,"min10","UMJ553",553,43
+"431","178.71.0.251",6,"agreement.csv","lopuhinpredicttest",2,"","Русский","female",NA,"min60","WKD554",554,8
+"432","194.226.56.147",4,"agreement.csv","lopuhinpredicttest",0,"","русский","male",NA,"min90","PCU557",557,50
+"433","89.175.46.44",5,"agreement.csv","lopuhinpredicttest",11,"","Русский","male",NA,"min100500","BJM559",559,18
+"434","213.87.89.121",4,"agreement.csv","lopuhinpredicttest",0,"","Русский ","female",NA,"min60","YOT562",562,26
+"435","185.211.158.91",6,"agreement.csv","lopuhinpredicttest",27,"","Русский","female",NA,"min100500","SPR563",563,33
+"436","212.15.58.65",6,"agreement.csv","lopuhinpredicttest",7,"","Русский","male",NA,"min10","GCG566",566,13
+"437","178.205.5.113",6,"agreement.csv","lopuhinpredicttest",2,"","русский","male",NA,"min30","ODQ567",567,8
+"438","217.15.62.29",3,"agreement.csv","lopuhinpredicttest",0,"","русский ","female",NA,"min90","EQP570",570,22
+"439","178.66.158.21",3,"agreement.csv","lopuhinpredicttest",-5,"","русский","female",NA,"min100500","YXI571",571,31
+"440","31.173.80.90",5,"agreement.csv","lopuhinpredicttest",9,"","русский","male",NA,"min60","EYZ572",572,16
+"441","31.173.80.90",5,"agreement.csv","lopuhinpredicttest",9,"","русский","male",NA,"min60","QLR573",573,16
+"442","83.139.25.67",5,"agreement.csv","lopuhinpredicttest",0,"","Русский ","male",NA,"min90","MBC575",575,25
+"443","178.66.158.21",5,"agreement.csv","lopuhinpredicttest",1,"","русский","female",NA,"min10","UFX576",576,7
+"444","194.247.182.162",3,"agreement.csv","lopuhinpredicttest",0,"","Русский","male",NA,"min60","OGE577",577,29
+"445","89.113.152.15",8,"agreement.csv","lopuhinpredicttest",100,"","Русский ","male",NA,"min90","RTB579",579,52
+"446","213.87.132.94",4,"agreement.csv","lopuhinpredicttest",11,"","Русский","male",NA,"min100500","DJB580",580,18
+"447","158.160.48.205",7,"agreement.csv","lopuhinpredicttest",1,"","Русский","male",NA,"min10","COY582",582,7
+"448","24.113.161.225",4,"agreement.csv","lopuhinpredicttest",0,"","русский","female",NA,"min100500","YIA583",583,30
+"449","62.23.213.11",5,"agreement.csv","lopuhinpredicttest",6,"","ffsd","female",NA,"min30","UVL584",584,8
+"450","169.150.218.83",5,"agreement.csv","lopuhinpredicttest",0,"","Русский","male",NA,"min60","QCQ585",585,22
+"451","5.19.99.165",5,"agreement.csv","lopuhinpredicttest",8,"","Русский язык","female",NA,"min30","BWU586",586,13
+"452","5.19.99.165",5,"agreement.csv","lopuhinpredicttest",8,"","Русский язык","female",NA,"min30","SJQ587",587,13
+"453","46.138.19.235",6,"agreement.csv","lopuhinpredicttest",8,"","Русский","female",NA,"min90","JDV588",588,14
+"454","109.252.51.90",4,"agreement.csv","lopuhinpredicttest",8,"Не знаю","Русский ","male",NA,"min100500","VZN588",588,14
+"455","109.252.118.35",7,"agreement.csv","lopuhinpredicttest",8,"","Русский","female",NA,"min60","USK589",589,14
+"456","46.138.178.228",8,"agreement.csv","lopuhinpredicttest",8,"","Русский","female",NA,"min100500","JKF590",590,14
+"457","83.220.236.115",3,"agreement.csv","lopuhinpredicttest",8,"","Русский","female",NA,"min100500","TPS591",591,14
+"458","178.176.79.210",4,"agreement.csv","lopuhinpredicttest",8,"","Русский ","female",NA,"min100500","DEG592",592,14
+"459","83.220.236.115",3,"agreement.csv","lopuhinpredicttest",8,"","Русский","female",NA,"min100500","MNO593",593,14
+"460","83.220.236.115",3,"agreement.csv","lopuhinpredicttest",8,"","Русский","female",NA,"min100500","TML594",594,14
+"461","51.158.204.64",3,"agreement.csv","lopuhinpredicttest",8,"","Русский ","male",NA,"min30","WXJ595",595,14
+"462","51.158.204.64",3,"agreement.csv","lopuhinpredicttest",8,"","Русский ","male",NA,"min30","WKV596",596,14
+"463","51.158.204.64",3,"agreement.csv","lopuhinpredicttest",8,"","Русский ","male",NA,"min30","JDH597",597,14
+"464","213.87.161.150",6,"agreement.csv","lopuhinpredicttest",8,"","Русский","female",NA,"min30","RTN598",598,14
+"465","83.220.238.159",4,"agreement.csv","lopuhinpredicttest",2,"","русский","female",NA,"min10","YGP599",599,8
+"466","185.79.101.227",5,"agreement.csv","lopuhinpredicttest",8,"","Русский","male",NA,"min100500","MSI600",600,14
+"467","213.87.139.171",4,"agreement.csv","lopuhinpredicttest",5,"","Русский ","male",NA,"min100500","KWW601",601,11
+"468","46.138.7.162",4,"agreement.csv","lopuhinpredicttest",5,"","Русский","female",NA,"min90","QSL602",602,11
+"469","46.138.7.162",4,"agreement.csv","lopuhinpredicttest",5,"","Русский","female",NA,"min90","EGR603",603,11
+"470","94.29.126.181",4,"agreement.csv","lopuhinpredicttest",5,"Не знаю","Русский","female",NA,"min100500","LMJ604",604,10
+"471","46.138.185.189",3,"agreement.csv","lopuhinpredicttest",5,"","Русский","female",NA,"min90","OBB605",605,11
+"472","46.242.8.185",3,"agreement.csv","lopuhinpredicttest",7,"","Русский ","female",NA,"min60","VEX606",606,13
+"473","46.242.8.185",3,"agreement.csv","lopuhinpredicttest",7,"","Р","female",NA,"min60","COL607",607,13
+"474","46.138.185.189",3,"agreement.csv","lopuhinpredicttest",5,"","Русский","female",NA,"min90","ROW608",608,11
+"475","109.252.16.94",3,"agreement.csv","lopuhinpredicttest",7,"","Русский","female",NA,"min10","QWE609",609,13
+"476","85.141.170.167",3,"agreement.csv","lopuhinpredicttest",5,"","Русский","female",NA,"min90","FPY610",610,11
+"477","85.141.170.167",3,"agreement.csv","lopuhinpredicttest",5,"","Русский","female",NA,"min90","RJT611",611,11
+"478","31.173.87.79",5,"agreement.csv","lopuhinpredicttest",9,"","Русский","male",NA,"min100500","UBO612",612,15
+"479","94.201.163.148",4,"agreement.csv","lopuhinpredicttest",9,"-","Русский","female",NA,"min90","HNB613",613,15
+"480","46.39.45.170",4,"agreement.csv","lopuhinpredicttest",9,"","Русский","female",NA,"min60","WDQ614",614,15
+"481","31.173.87.79",5,"agreement.csv","lopuhinpredicttest",9,"","Русский","male",NA,"min100500","IGV615",615,15
+"482","46.39.51.209",7,"agreement.csv","lopuhinpredicttest",9,"","русский","female",NA,"min100500","HCV616",616,15
+"483","79.139.133.152",4,"agreement.csv","lopuhinpredicttest",9,"","Русский","female",NA,"min100500","CNA619",619,15
+"484","46.39.229.161",5,"agreement.csv","lopuhinpredicttest",9,"","Русский ","female",NA,"min100500","HXK620",620,16
+"485","46.39.229.161",5,"agreement.csv","lopuhinpredicttest",9,"","Русский ","female",NA,"min100500","HIC621",621,16
+"486","91.132.107.68",6,"agreement.csv","lopuhinpredicttest",7,"","Русский","male",NA,"min30","UCH622",622,13
+"487","141.101.226.178",3,"agreement.csv","lopuhinpredicttest",10,"","русский","female",NA,"min100500","CGU623",623,17
+"488","5.42.100.61",4,"agreement.csv","lopuhinpredicttest",9,"","Русский","male",NA,"min10","QZL624",624,15
+"489","141.101.226.178",3,"agreement.csv","lopuhinpredicttest",10,"","русский ","female",NA,"min100500","DFM625",625,17
+"490","141.101.226.178",4,"agreement.csv","lopuhinpredicttest",9,"","русский","female",NA,"min60","MVO625",625,15
+"491","141.101.226.178",4,"agreement.csv","lopuhinpredicttest",9,"","Русский","male",NA,"min30","BPT626",626,15
+"492","141.101.226.178",3,"agreement.csv","lopuhinpredicttest",9,"","Русский","female",NA,"min60","TFZ627",627,15
+"493","185.72.224.85",5,"agreement.csv","lopuhinpredicttest",9,"","русский","female",NA,"min60","HHJ628",628,15
+"494","109.252.175.21",5,"agreement.csv","lopuhinpredicttest",9,"","Русский","male",NA,"min10","NCQ629",629,15
+"495","141.101.226.178",5,"agreement.csv","lopuhinpredicttest",9,"","Русский ","female",NA,"min100500","XWE630",630,15
+"496","141.101.226.178",7,"agreement.csv","lopuhinpredicttest",9,"","Русский","male",NA,"min10","NJR632",632,16
+"497","141.101.226.178",5,"agreement.csv","lopuhinpredicttest",10,"","Русский","female",NA,"min100500","KWF633",633,17
+"498","141.101.226.178",5,"agreement.csv","lopuhinpredicttest",10,"","Русский","female",NA,"min60","GFW634",634,17
+"499","213.87.133.215",5,"agreement.csv","lopuhinpredicttest",9,"","Русский","male",NA,"min10","EAO635",635,16
+"500","141.101.226.178",3,"agreement.csv","lopuhinpredicttest",9,"","Русский","female",NA,"min100500","LAV636",636,15
+"501","81.17.123.212",4,"agreement.csv","lopuhinpredicttest",0,"","Русский ","female",NA,"min100500","PGV640",640,20
